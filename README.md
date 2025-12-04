@@ -85,13 +85,10 @@ All outputs use NaN for invalid ocean/non-ocean cells.
 
 ---
 
-## 🧪 Unit Testing
+## 🧪 climatological monthly model input data address
 
-A test file `test_compute_poc_flux.m` is provided to verify:
-
-* dimension consistency
-* NaN handling
-* no-crash execution
+The climatological monthly model input and output data could be found in 
+https://doi.org/10.5281/zenodo.17809518.
 
 ---
 
